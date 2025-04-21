@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
 <html>
     <title>
         My map
@@ -67,7 +68,7 @@ Execute the programs and publish them.
         Kundrathur Murugan Temple is a Hindu temple located in Kundrathur, a suburb of Chennai in the Kancheepuram district of Tamil Nadu.According to Hindu mythology, Lord Subramaniar (Murugan) stayed on the hill during his travels from Tiruporur to Tiruttanigai. This place is also known as South Thanigai, as Lord Subramaniar is depicted facing the north, towards Thanigai.
     </body>
 </html>
-
+```
 ## OUTPUT
 ![alt text](<Screenshot (124)-1.png>)
 ![alt text](<Screenshot (126).png>)
