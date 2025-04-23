@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+
 ```
 <html>
     <title>
@@ -44,7 +45,9 @@ Execute the programs and publish them.
 </map>
     </body>
 </html>
-
+```
+lake.html
+```
 <html>
     <body>
         <img src="Chembarambakkam.jpg" usemap="#image-map">
@@ -52,7 +55,9 @@ Execute the programs and publish them.
         Chembarambakkam lake is a lake located in Chennai, Tamil Nadu, India, about 25 km from Chennai. It is the biggest of the two important rain-fed reservoirs, the other one being the Puzhal Lake, that supply drinking water to Chennai city . The Adyar River originates from this lake. A part of drinking water supply to Chennai metropolis is drawn from this lake. This was the first artificial lake built by Rajendra Chola I, the son of Rajaraja Chola, and Thiripuvana Madeviyar, prince of Kodumbalur.During Chennai's water crisis of 2019, Chembarambakkam Lake dried up.
     </body>
 </html>
-
+```
+college.html
+```
 <html>
     <body>
         <img src="madha eng college.jpg" usemap="#image-map">
@@ -60,7 +65,9 @@ Execute the programs and publish them.
         Founded in 1998, Madha Engineering College (MEC), is run by a Christian Minority Educational Trust, approved by AICTE, New Delhi and affiliated to Anna University, Chennai is one among the premier technical institutions in Chennai with the success record of transforming the lives of nearly 15000+ learners.MEC encompasses 24 years, bringing together the engineering aspirants from different regions across the nation who opt this college by choice. It continues to be a preferred institution for many as it extends humongous opportunity for creativity, progress, knowledge and solutions.
     </body>
 </html>
-
+```
+temple.html
+```
 <html>
     <body>
         <img src="kundrathur-murugan.jpg" usemap="#image-map">
